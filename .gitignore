@@ -7,9 +7,10 @@
 /coverage
 
 # production
-/build
+/dist
 
 # misc
+/.nuxt
 .DS_Store
 .env.local
 .env.development.local
